@@ -4,7 +4,7 @@ is designed to manage a multi-vendor platform where multiple sellers
 can list their products, and customers can browse, order, and review them. 
 The API is built using Node.js and MongoDB.
 
-### ✨ Features
+## ✨ Features
 1. **🔐 Authentication & Authorization:** Secure user authentication with JWT tokens.
 2. **🛍️ Vendor Management:** Create, update, and manage vendors.
 3. **📦 Product Management:** CRUD operations for products, including categories, inventory, and pricing.
@@ -14,7 +14,7 @@ The API is built using Node.js and MongoDB.
 7. **📊 Analytics:** Vendor-specific sales reports and platform-wide analytics.
 
 
-### 🚀 Getting Started
+## 🚀 Getting Started
 1. Prerequisites:
     - Node.js
     - MongoDB
