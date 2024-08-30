@@ -3,6 +3,7 @@ Welcome to the Multi-Vendor Application API repository! This API
 is designed to manage a multi-vendor platform where multiple sellers 
 can list their products, and customers can browse, order, and review them. 
 The API is built using Node.js and MongoDB.
+👉 [Visit API Docs on Postman](https://documenter.getpostman.com/view/19934289/2sA3JGf3nx)
 
 ## ✨ Features
 1. **🔐 Authentication & Authorization:** Secure user authentication with JWT tokens.

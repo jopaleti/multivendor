@@ -1,4 +1,4 @@
 backend/node_modules
-socket/src/config
+backend/src/config
 node_modules
 src/config
